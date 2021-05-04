@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Guoqing Wang
 
-You can use the [editor on GitHub](https://github.com/bitwgq/bitwgq.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
+Guoqing Wang, is currently a Ph.D student at Radar Research Laboratory, School of Information and Electronics, Beijing Institute of Technology. In July 2020, he graduated from the School of Information and Electronics, Beijing Institute of Technology with a bachelor's degree, and was recommended to the School of Information and Electronics, Beijing Institute of Technology for a master's degree in the same year. In May 2021, he was selected as a Ph.D student.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research
+SAR Signal Processing Chip
 
-### Markdown
+### Publications
+#### Articles:
+- [1] Guoqing Wang, He Chen, Yizhuang Xie. An Efficient Dual-Channel Data Storage and Access Method for Spaceborne Synthetic Aperture Radar Real-Time Processing[J]. Electronics, 2021, 10(6):662. (SCI, IF=2.412)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitwgq/bitwgq.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Patents:
+- [1] Guoqing Wang, Yizhuang Xie, He Chen, Liang Chen; A Dual-Channel DDR3 Based SAR Data Storage and Access Method and Device. Application number：CN202110129411.0
+- [2] Yizhuang Xie, Guoqing Wang, Tingting Qiao; A Multi-Channel Parallel Computing System for Synthetic Aperture Radar Real-Time Imaging. Application number：CN202110396890.2
